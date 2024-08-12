@@ -1,5 +1,6 @@
 You can configure the spawning reason in the config.yml
 
+[Spigot Download](https://www.spigotmc.org/resources/nophantoms.118853/)
 
 config:
 disable-natural-spawn: true
