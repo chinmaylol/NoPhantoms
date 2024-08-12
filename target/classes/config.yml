@@ -1,0 +1,3 @@
+disable-natural-spawn: true
+disable-spawner-spawn: true
+disable-spawner-egg-spawn: true

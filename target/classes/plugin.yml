@@ -1,0 +1,7 @@
+name: NoPhantoms
+version: '1.0'
+main: org.chinmay.nophantoms.NoPhantoms
+api-version: '1.21'
+authors: [chinmay]
+description: Removes phantoms completely from your server!
+website: spigot.chinmay.lol
