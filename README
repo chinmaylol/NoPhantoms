@@ -1,0 +1,7 @@
+You can configure the spawning reason in the config.yml
+
+
+config:
+disable-natural-spawn: true
+disable-spawner-spawn: true
+disable-spawner-egg-spawn: true
